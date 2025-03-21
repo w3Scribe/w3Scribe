@@ -1,5 +1,8 @@
 # 💫 About Me:
-**Sudhir Gadpayle**  <br>B.Sc. Computer Science Student • Maharashtra, India<br><br>I’m a curious developer-in-training, exploring the world of open source, algorithms, and software engineering. My repositories often include examples in C, Go, Python, and TypeScript, and I enjoy experimenting with new tools and libraries. I believe in continuous learning, sharing knowledge, and collaborating on projects that challenge me to grow. When I’m not coding, you’ll find me exploring tech communities and reading about cutting-edge research. Feel free to connect, collaborate, or just drop by to say hello!
+**Sudhir Gadpayle**  
+B.Sc. Computer Science Student • Maharashtra, India
+
+I’m a curious developer exploring open source, algorithms, and software engineering. You’ll often see repositories here featuring examples in C, Go, Python, and TypeScript. Programming is my hobby—something I enjoy purely for the fun of it, not as a professional pursuit. I believe in continuous learning, sharing knowledge, and collaborating on projects that challenge me to grow. When I’m not coding, you can find me exploring tech communities or reading about new research. Feel free to connect, collaborate, or just say hello!
 
 
 # 💻 Tech Stack:
