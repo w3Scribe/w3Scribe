@@ -3,7 +3,9 @@
 Computer Science Student • Maharashtra, India
 
 I enjoy exploring modern web technologies and building interactive, animated websites out of curiosity and fun. I usually work with React, TypeScript, TanStack, PostgreSQL, Bun, and Linux-based tools.
+
 I like experimenting with animation libraries, motion-heavy UI, and new ideas while learning by building small projects and trying things hands-on.
+
 Building because it feels good. Learning because it’s interesting.
 
 # 💻 Tech Stack:
